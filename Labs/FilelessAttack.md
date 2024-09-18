@@ -11,4 +11,6 @@
 4. Wait for the script to finish running. Notepad should open which you can close manually
 ![PowerShell Prompt](..//Images/PScode.png)
 
-Hello
+Example Defender page
+
+![Def](..//Images/ManageIncidents.png)
